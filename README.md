@@ -17,25 +17,25 @@ Image data for [birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
 ## Pretrained Model
 * CUB<br />
 Download the pre-trained text encoder for [CUB](https://drive.google.com/file/d/1rzfcCvGwU8vLCrn5reWxmrAMms6WQGA6/view?usp=sharing) and save it to ../bird/<br />
-EMF-GAN for CUB. Download and save it to models/bird/<br />
+EMF-GAN for [CUB](https://pan.baidu.com/s/1Y7f1zhIGoSo_rit_UlTG5A).Password (1008). Download and save it to ../saved_models/bird/<br />
 
 * COCO<br />
 Download the pre-trained text encoder for [COCO](https://drive.google.com/file/d/1e_AwWxbClxipEnasfz_QrhmLlv2-Vpyq/view?usp=sharing) and save it to ../coco/<br />
-EMF-GAN for COCO. Download and save it to models/coco/<br />
+EMF-GAN for [COCO](https://pan.baidu.com/s/1Y7f1zhIGoSo_rit_UlTG5A).Password (1008). Download and save it to ../saved_models/coco/<br />
 
 ## Synthesize images
   ```
   cd EMF-GAN/code/
   ```
-- CUB: `bash scr/test.sh ./cfg/bird.yml`
-- COCO: `bash scr/test.sh ./cfg/coco.yml`
+- CUB: `bash src/test.sh ./cfg/bird.yml`
+- COCO: `bash src/test.sh ./cfg/coco.yml`
 
 ## Train model
   ```
   cd EMF-GAN/code/
   ```
-- CUB: `bash scr/train.sh ./cfg/bird.yml`
-- COCO: `bash scr/train.sh ./cfg/coco.yml`
+- CUB: `bash src/train.sh ./cfg/bird.yml`
+- COCO: `bash src/train.sh ./cfg/coco.yml`
 
 
 ## Results
