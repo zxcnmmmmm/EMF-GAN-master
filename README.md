@@ -4,10 +4,11 @@
 - python 3.8
 - torch 
 
-## Clone the Repository.
+## Installation
 ```
 git clone https://github.com/zxcnmmmmm/EMF-GAN-master.git
 cd EMF-GAN-master
+pip install -r requirements.txt
 ```
 
 ## Prepare data
