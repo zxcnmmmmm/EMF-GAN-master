@@ -18,11 +18,11 @@ Image data for [birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html
 ## Pretrained Model
 * CUB<br />
 Download the pre-trained text encoder for [CUB](https://drive.google.com/file/d/1rzfcCvGwU8vLCrn5reWxmrAMms6WQGA6/view?usp=sharing) and save it to ../bird/<br />
-EMF-GAN for [CUB](https://pan.baidu.com/s/1Y7f1zhIGoSo_rit_UlTG5A).Password (1008). Download and save it to ../saved_models/bird/<br />
+EMF-GAN for [CUB](https://pan.baidu.com/s/1JfYS3binYGP9BLN_zUx-Jg).Password (5efd). Download and save it to ../saved_models/bird/<br />
 
 * COCO<br />
 Download the pre-trained text encoder for [COCO](https://drive.google.com/file/d/1e_AwWxbClxipEnasfz_QrhmLlv2-Vpyq/view?usp=sharing) and save it to ../coco/<br />
-EMF-GAN for [COCO](https://pan.baidu.com/s/1Y7f1zhIGoSo_rit_UlTG5A).Password (1008). Download and save it to ../saved_models/coco/<br />
+EMF-GAN for [COCO](https://pan.baidu.com/s/1j00282uqMA1u74dChMROiA).Password (9rbv). Download and save it to ../saved_models/coco/<br />
 
 ## Synthesize images
   ```
