@@ -1,0 +1,13 @@
+torch
+torchvision
+easydict
+pandas
+jupyter
+pyyaml
+ipykernel
+scipy
+tensorboard
+ftfy
+regex
+tqdm
+numpy
