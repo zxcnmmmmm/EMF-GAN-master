@@ -45,4 +45,9 @@ Example results on the CUB and COCO.
   <img src="https://github.com/zxcnmmmmm/EMF-GAN-master/blob/main/example.jpg" width="400">
 </div>
 
+## Reference
+- [DM-GAN: Realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1904.01310) [[code]](https://github.com/MinfengZhu/DM-GAN)
+- [DF-GAN: A Simple and Effective Baseline for Text-to-Image Synthesis](https://arxiv.org/abs/2008.05865) [[code]](https://github.com/tobran/DF-GAN.git)
+- [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf) [[code]]([https://github.com/MinfengZhu/DM-GAN](https://github.com/taoxugit/AttnGAN))
+
 
